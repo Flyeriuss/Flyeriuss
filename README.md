@@ -9,7 +9,7 @@
 </div>
 <br/>
 Lover of evolution through research and experiences, passionate about how technology changes the world and people.
-
+<br/>
 <br/>
 
  <div>
