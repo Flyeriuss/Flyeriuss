@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-<span align="center">👨‍💻 I'm Currently working with</span><br/>
+## Tecnologias que eu uso no meu dia
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30">&nbsp;&nbsp;
