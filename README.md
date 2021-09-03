@@ -22,7 +22,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30">&nbsp;&nbsp;
-<br/><br/>
+<br/>
   </div>
   
 
@@ -33,7 +33,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30">&nbsp;&nbsp;
-<br/><br/>
+<br/>
   </div>
 
 ## What i'm interested on
