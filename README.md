@@ -7,7 +7,7 @@
   <a href = "mailto:diego-s.novaes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-novaes-9a26b6190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<br/>
 Lover of evolution through research and experiences, passionate about how technology changes the world and people.
 
 <br/>
