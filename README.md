@@ -10,6 +10,12 @@
 
 <br/>
 
+<div> 
+  <a href = "mailto:diego-s.novaes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-novaes-9a26b6190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -33,11 +39,3 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30">&nbsp;&nbsp;
-
-<hr>
-
-<div> 
-  <a href = "mailto:diego-s.novaes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-novaes-9a26b6190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
