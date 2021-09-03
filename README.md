@@ -10,8 +10,10 @@
 
 <br/>
 
-<div align="center">
+
 ## Tecnologias que eu uso no meu dia
+
+
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30">&nbsp;&nbsp;
@@ -39,4 +41,3 @@
   <a href="https://www.linkedin.com/in/diego-novaes-9a26b6190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
- </div>
