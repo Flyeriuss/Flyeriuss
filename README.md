@@ -17,7 +17,6 @@
 <br/>
 
 ## What i'm working with
-
   <div align="center">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30">&nbsp;&nbsp;
@@ -28,7 +27,6 @@
   
 
 ## What i'm studying on
-
   <div align="center">
 <img align="center" src="https://iconape.com/wp-content/files/eo/370609/svg/370609.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30">&nbsp;&nbsp;
@@ -39,7 +37,6 @@
   </div>
 
 ## What i'm interested on
-
   <div align="center">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30">&nbsp;&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30">&nbsp;&nbsp;
